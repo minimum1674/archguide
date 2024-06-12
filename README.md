@@ -17,7 +17,7 @@ hello, this is a beginner friendly tutorial on how to install arch linux. dont f
 ### 1-1. getting the USB ready for the install
 okay in this step you need a flash drive more than a gigabyte (a 4gb or an 8gb one works flawlessly)
 and you need this program called balena etcher.
-download the ``.iso`` file from the https://archlinux.org website (more than a gigabyte)
+download the ``.iso`` file from the https://archlinux.org website (more than a gigabyte btw)
 and then, open the balena etcher program and plug in your usb. select your USB driver and the ``.iso`` file and then its time to flash
 now just wait, and after you are done, restart your pc.
 ### 1-2. getting into the install 
